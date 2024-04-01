@@ -1,0 +1,74 @@
+{
+  "user": [
+    {
+      "id": "df1f",
+      "username": "rupesh",
+      "email": "r@gmail.com",
+      "phone": "7852369452",
+      "image": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg"
+    },
+    {
+      "id": "a002",
+      "username": "jesmin",
+      "email": "jesmin@gmail.com",
+      "phone": "8728756216",
+      "image": "https://img.freepik.com/free-photo/close-up-portrait-curly-handsome-european-male_176532-8133.jpg?w=996&t=st=1711944883~exp=1711945483~hmac=a2cb63ea6526fc9eb3d0f70041f25e2d1165f3dba02f6018410643d11092cd4c"
+    },
+    {
+      "id": "7eca",
+      "username": "Arpit",
+      "email": "Arpit@gmail.com",
+      "phone": "4568972315",
+      "image": "https://i0.wp.com/sguru.org/wp-content/uploads/2017/06/tumblr_mylsclqIxq1sqrdtao1_500.jpg?resize=449%2C449&ssl=1"
+    },
+    {
+      "id": "2448",
+      "username": "Umangi",
+      "email": "u@gmail.com",
+      "phone": "7532169845",
+      "image": "https://i.pinimg.com/originals/59/a6/bf/59a6bf64c38c5cc2587c36aabd689ef4.jpg"
+    },
+    {
+      "id": "4dd3",
+      "username": "Janak",
+      "email": "janakkhokhar@gmail.com",
+      "phone": "8529637415",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67ZR8GaGWkfH4T0fKj_A_L9EB9Gx0HWgl0A&usqp=CAU"
+    },
+    {
+      "id": "86da",
+      "username": "laksh",
+      "email": "laksh@gmail.com",
+      "phone": "7539514560",
+      "image": "https://fcity.in/images/products/73007454/smpfp_512.jpg"
+    },
+    {
+      "id": "7614",
+      "phone": "1597538520",
+      "username": "ramo",
+      "email": "ramo@gmail.com",
+      "image": "https://cdn.statusqueen.com/dpimages/thumbnail/dp_image37-902.jpg"
+    },
+    {
+      "id": "de06",
+      "username": "kamo",
+      "email": "kamo@gmail.com",
+      "phone": "7539648261",
+      "image": "https://i0.wp.com/sguru.org/wp-content/uploads/2017/06/tumblr_o8xrjjncRr1sbcii3o1_1280.jpg?resize=362%2C563&ssl=1"
+    },
+    {
+      "id": "3b2a",
+      "username": "Dhano",
+      "email": "D@gmail.com",
+      "phone": "1238569740",
+      "image": "https://i0.wp.com/sguru.org/wp-content/uploads/2017/06/01_imm_indian_male_models_tapan_singh.jpg?resize=488%2C733&ssl=1"
+    },
+    {
+      "id": "48ac",
+      "username": "Suro",
+      "email": "suro@gmail.com",
+      "phone": "4596278318",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd2ddWSysVt9AJHN_0DCxTvQdZzGu5Tf_s7g&usqp=CAU"
+    }
+  ]
+}
